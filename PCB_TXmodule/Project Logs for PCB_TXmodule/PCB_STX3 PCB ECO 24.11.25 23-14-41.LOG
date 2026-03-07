@@ -1,0 +1,30 @@
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Added Component: Designator=R2(RES 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibRES.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Resistor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor RES 0603 10 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDA1_14 Pin=R2-1
+Added Pin To Net: NetName=NetC1_1 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=XS1-4
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR8_2
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR10_2
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetR11_2
+Added Member To Class: ClassName=TXmdl_1 Member=Component R14 Resistor

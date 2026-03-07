@@ -1,0 +1,20 @@
+Added Component: Designator=WA1(A1615_25x25x4)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibANTNN.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Antenna.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SP.1615.25.4.A.02 A1615_25x25x4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC14_1 Pin=WA1-1
+Added Member To Class: ClassName=TXmdl_1 Member=Component C7 CAP_POL
+Added Member To Class: ClassName=TXmdl_1 Member=Component C15 Capacitor
+Added Member To Class: ClassName=TXmdl_1 Member=Component L2 Inductance
+Added Member To Class: ClassName=TXmdl_1 Member=Component L4 Inductance
+Added Member To Class: ClassName=TXmdl_1 Member=Component L5 Ferrite_Bead
+Added Member To Class: ClassName=TXmdl_1 Member=Component R8 Resistor
+Added Member To Class: ClassName=TXmdl_1 Member=Component R9 Resistor
+Added Member To Class: ClassName=TXmdl_1 Member=Component R11 Resistor
+Added Member To Class: ClassName=TXmdl_1 Member=Component R13 Resistor
+Added Member To Class: ClassName=TXmdl_1 Member=Component R14 Resistor
+Added Member To Class: ClassName=TXmdl_1 Member=Component U1 BFCN-1860+
+Added Member To Class: ClassName=TXmdl_1 Member=Component VT1 2N7002
+Added Member To Class: ClassName=TXmdl_1 Member=Component VT3 2N7002
+Added Member To Class: ClassName=TXmdl_1 Member=Component WA1 SP.1615.25.4.A.02
+Added Member To Class: ClassName=TXmdl_1 Member=Component XS1 WPH-3002-1XX-2GXB-XR

@@ -1,0 +1,372 @@
+Added Component: Designator=C1(CAP 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibCAP.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Capacitor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Capacitor CAP 0603 10 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP 0805)
+Added Component: Designator=C3(CAP 0805)
+Added Component: Designator=C4(CAP 0402)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibCAP.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Capacitor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Capacitor CAP 0402 1 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibCAP.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Capacitor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Capacitor CAP 0603 0.1 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP 0402)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibCAP.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Capacitor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Capacitor CAP 0402 1 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP 0402)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibCAP.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Capacitor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Capacitor CAP 0402 1 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibCAP.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Capacitor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Capacitor CAP 0603 10 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP 0402)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibCAP.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Capacitor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Capacitor CAP 0402 0.1 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibCAP.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Capacitor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Capacitor CAP 0603 10 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP 0402)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibCAP.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Capacitor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Capacitor CAP 0402 0.1 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP 0805)
+Added Component: Designator=C13(CAP 0805)
+Added Component: Designator=C14(CAP 0805)
+Added Component: Designator=C15(CAP 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibCAP.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Capacitor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Capacitor CAP 0603 10 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAP 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibCAP.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Capacitor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Capacitor CAP 0603 10 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAP 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibCAP.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Capacitor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Capacitor CAP 0603 10 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=DA1(VQFN-HR-15)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibDC_DC.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "DC_DC_Converter.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "TPS63070 VQFN-HR-15"; VariantName = "[No Variations]"
+Added Component: Designator=L1(L 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibL.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Inductance.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Inductance L 0603 39 nH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "nH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "39"; VariantName = "[No Variations]"
+Added Component: Designator=L2(L 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibL.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Inductance.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Inductance L 0603 39 nH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "nH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "39"; VariantName = "[No Variations]"
+Added Component: Designator=L3(IHLP2525CZER1R5M01)
+Added Component: Designator=L4(L 0805)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibL.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Inductance.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Ferrite_Bead L 0805 220 Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=L5(L 0805)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibL.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Inductance.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Ferrite_Bead L 0805 220 Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibRES.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Resistor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor RES 0603 10 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibRES.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Resistor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor RES 0603 10 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibRES.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Resistor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor RES 0603 100 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibRES.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Resistor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor RES 0603 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibRES.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Resistor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor RES 0603 1 Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibRES.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Resistor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor RES 0603 1 Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES 0805)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibRES.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Resistor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor RES 0805 0 Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibRES.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Resistor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor RES 0603 1 Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibRES.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Resistor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor RES 0603 1 Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibRES.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Resistor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor RES 0603 1 Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibRES.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Resistor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor RES 0603 1 Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibRES.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Resistor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor RES 0603 1 Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES 0603)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibRES.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "Resistor.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Resistor RES 0603 1 Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Units"; Value = "Om"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=U1(STX3_TxSTL_32)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibTxTER.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "TRANSMITTER.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "STX3_Module STX3_TxSTL_32"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(SOT-23-3)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibMOSFET.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "MOSFET.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "2N7002 SOT-23-3"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(SOT-23-3)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibMOSFET.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "MOSFET.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "2N7002 SOT-23-3"; VariantName = "[No Variations]"
+Added Component: Designator=VT3(SOT-23-3)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibMOSFET.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "MOSFET.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "2N7002 SOT-23-3"; VariantName = "[No Variations]"
+Added Component: Designator=VT4(SOT-23-3)
+Add component (AddParameter): Name = "Footprint Part"; Value = "PcbLibMOSFET.pcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Library Part"; Value = "MOSFET.schlib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "2N7002 SOT-23-3"; VariantName = "[No Variations]"
+Added Component: Designator=XS1(TSM-107-02-L-SV-A-P)
+Added Component: Designator=XS2(TSM-107-02-L-SV-A-P)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=DA1-4
+Added Pin To Net: NetName=GND Pin=DA1-6
+Added Pin To Net: NetName=GND Pin=DA1-10
+Added Pin To Net: NetName=GND Pin=DA1-15
+Added Pin To Net: NetName=GND Pin=L2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Pin To Net: NetName=GND Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=GND Pin=VT1-2
+Added Pin To Net: NetName=GND Pin=VT2-2
+Added Pin To Net: NetName=GND Pin=VT3-2
+Added Pin To Net: NetName=GND Pin=VT4-2
+Added Pin To Net: NetName=GND Pin=XS1-5
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=GND Pin=XS2-7
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-1
+Added Pin To Net: NetName=NetC1_1 Pin=C3-1
+Added Pin To Net: NetName=NetC1_1 Pin=C17-1
+Added Pin To Net: NetName=NetC1_1 Pin=DA1-12
+Added Pin To Net: NetName=NetC1_1 Pin=DA1-13
+Added Pin To Net: NetName=NetC1_1 Pin=R1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R7-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=L1-1
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=DA1-3
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=C7-1
+Added Pin To Net: NetName=NetC6_2 Pin=L1-2
+Added Pin To Net: NetName=NetC6_2 Pin=L2-2
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=U1-14
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=C9-2
+Added Pin To Net: NetName=NetC8_1 Pin=L4-2
+Added Pin To Net: NetName=NetC8_1 Pin=U1-7
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=C12-1
+Added Pin To Net: NetName=NetC10_2 Pin=C13-1
+Added Pin To Net: NetName=NetC10_2 Pin=C14-1
+Added Pin To Net: NetName=NetC10_2 Pin=DA1-7
+Added Pin To Net: NetName=NetC10_2 Pin=DA1-8
+Added Pin To Net: NetName=NetC10_2 Pin=L4-1
+Added Pin To Net: NetName=NetC10_2 Pin=R3-2
+Added Pin To Net: NetName=NetC10_2 Pin=R4-1
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=C15-1
+Added Pin To Net: NetName=NetC11_2 Pin=C16-1
+Added Pin To Net: NetName=NetC11_2 Pin=L5-1
+Added Pin To Net: NetName=NetC11_2 Pin=R5-2
+Added Pin To Net: NetName=NetC11_2 Pin=U1-32
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetDA1_1 Pin=DA1-1
+Added Pin To Net: NetName=NetDA1_1 Pin=R1-2
+Added Net: Name=NetDA1_1
+Added Pin To Net: NetName=NetDA1_2 Pin=DA1-2
+Added Pin To Net: NetName=NetDA1_2 Pin=R3-1
+Added Net: Name=NetDA1_2
+Added Pin To Net: NetName=NetDA1_5 Pin=DA1-5
+Added Pin To Net: NetName=NetDA1_5 Pin=R2-1
+Added Pin To Net: NetName=NetDA1_5 Pin=R4-2
+Added Net: Name=NetDA1_5
+Added Pin To Net: NetName=NetDA1_9 Pin=DA1-9
+Added Pin To Net: NetName=NetDA1_9 Pin=L3-2
+Added Net: Name=NetDA1_9
+Added Pin To Net: NetName=NetDA1_11 Pin=DA1-11
+Added Pin To Net: NetName=NetDA1_11 Pin=L3-1
+Added Net: Name=NetDA1_11
+Added Pin To Net: NetName=NetDA1_14 Pin=DA1-14
+Added Pin To Net: NetName=NetDA1_14 Pin=VT1-3
+Added Net: Name=NetDA1_14
+Added Pin To Net: NetName=NetL5_2 Pin=L5-2
+Added Pin To Net: NetName=NetL5_2 Pin=XS2-1
+Added Net: Name=NetL5_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R6-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-24
+Added Pin To Net: NetName=NetR5_1 Pin=VT1-1
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=XS1-6
+Added Pin To Net: NetName=NetR7_2 Pin=XS1-7
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=R11-2
+Added Pin To Net: NetName=NetR8_1 Pin=VT2-1
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=XS1-1
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=R12-2
+Added Pin To Net: NetName=NetR9_1 Pin=VT3-1
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=XS1-2
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=R13-2
+Added Pin To Net: NetName=NetR10_1 Pin=VT4-1
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=XS1-3
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetU1_1 Pin=U1-1
+Added Pin To Net: NetName=NetU1_1 Pin=XS2-5
+Added Net: Name=NetU1_1
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetU1_2 Pin=XS2-6
+Added Net: Name=NetU1_2
+Added Pin To Net: NetName=NetU1_26 Pin=U1-26
+Added Pin To Net: NetName=NetU1_26 Pin=XS2-3
+Added Net: Name=NetU1_26
+Added Pin To Net: NetName=NetU1_27 Pin=U1-27
+Added Pin To Net: NetName=NetU1_27 Pin=XS2-4
+Added Net: Name=NetU1_27
+Added Pin To Net: NetName=NetU1_28 Pin=U1-28
+Added Pin To Net: NetName=NetU1_28 Pin=VT2-3
+Added Net: Name=NetU1_28
+Added Pin To Net: NetName=NetU1_29 Pin=U1-29
+Added Pin To Net: NetName=NetU1_29 Pin=VT3-3
+Added Net: Name=NetU1_29
+Added Pin To Net: NetName=NetU1_31 Pin=U1-31
+Added Pin To Net: NetName=NetU1_31 Pin=VT4-3
+Added Net: Name=NetU1_31
+Added Class: Name=TXmdl_1
+Added Rule: Name=Schematic Supply Nets
