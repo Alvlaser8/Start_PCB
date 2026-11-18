@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SMA6J60CA-Q
+D SMA6J-Q Transient Voltage Suppressor Diode Series, Bi-Directional
+K
+F https://www.bourns.com/docs/product-datasheets/sma6j-q.pdf?sfvrsn=4a9a7af6_77
+$ENDCMP
+#
+#End Doc Library

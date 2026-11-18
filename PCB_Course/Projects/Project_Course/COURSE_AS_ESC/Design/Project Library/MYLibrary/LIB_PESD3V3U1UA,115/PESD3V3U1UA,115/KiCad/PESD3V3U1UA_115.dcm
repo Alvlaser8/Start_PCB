@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PESD3V3U1UA,115
+D NEXPERIA - PESD3V3U1UA,115 - ESD Protection Device, SOD-323, SC-76, 2 Pins, PESD3V3U1 Series
+K
+F https://assets.nexperia.com/documents/data-sheet/PESD3V3U1UA_UB_UL.pdf
+$ENDCMP
+#
+#End Doc Library

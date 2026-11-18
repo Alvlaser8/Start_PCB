@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 744227S
+D WE-SL2 SMT Common Mode Line Filter L = 51 H; Z = 5500 ; IR = 1000 mA; RDC = 0.16 ; sectional winding
+K
+F https://www.we-online.com/catalog/datasheet/744227S.pdf
+$ENDCMP
+#
+#End Doc Library

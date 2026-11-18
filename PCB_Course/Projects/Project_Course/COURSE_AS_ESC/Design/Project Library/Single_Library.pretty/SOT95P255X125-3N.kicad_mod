@@ -1,0 +1,226 @@
+(footprint "SOT95P255X125-3N"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "SOT23-3L (Thickness 1.25mm)")
+	(tags "TVS Diode (Bi-directional)")
+	(property "Reference" "D**"
+		(at -0.6604 -2.6924 0)
+		(layer "F.SilkS")
+		(uuid "1a6290c5-ad2e-4ccf-92c4-146ab820b55a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "SOT95P255X125-3N"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "47dce389-021e-42ea-863b-04379d7ae10b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d88538d7-4016-493c-b2e6-6a6a1ded237f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8b27f819-fbbf-4af8-b499-72b66ca9d939")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.045 -1.9304)
+		(end -0.8128 -1.9304)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b3174157-1c28-4875-98f5-ba1cd60f999a")
+	)
+	(fp_line
+		(start -0.1 -1.448)
+		(end 0.1 -1.448)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b9e03235-3164-42ed-8981-e4b0eb7c01de")
+	)
+	(fp_line
+		(start -0.1 1.448)
+		(end -0.1 -1.448)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a35c1009-8de9-4e8e-a0df-81740bdb4911")
+	)
+	(fp_line
+		(start 0.1 1.448)
+		(end -0.1 1.448)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2bbbe64b-1f7c-4d22-971e-408fb668ef5c")
+	)
+	(fp_line
+		(start -2.1 -1.77)
+		(end 2.1 -1.77)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f38ef7ee-dfc6-420e-be59-097e368abf6b")
+	)
+	(fp_line
+		(start -2.1 1.77)
+		(end -2.1 -1.77)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d37f8f59-0c47-4e5f-b000-5382530ada52")
+	)
+	(fp_line
+		(start 2.1 -1.77)
+		(end 2.1 1.77)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f42ba908-25e9-4a9e-b11e-fa8dec190881")
+	)
+	(fp_line
+		(start 2.1 1.77)
+		(end -2.1 1.77)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "552e9f68-99e8-4744-8ec9-3dd4131df2bb")
+	)
+	(fp_line
+		(start -0.738 -1.448)
+		(end 0.738 -1.448)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "79f9ffd7-5140-42c2-bee2-8b99c008bf12")
+	)
+	(fp_line
+		(start -0.738 -0.498)
+		(end 0.212 -1.448)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ac727597-27d6-461b-a00a-60135c3a0c04")
+	)
+	(fp_line
+		(start -0.738 1.448)
+		(end -0.738 -1.448)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dc6ca9ba-f794-4f10-b3e6-a56d59d4c2b5")
+	)
+	(fp_line
+		(start 0.738 -1.448)
+		(end 0.738 1.448)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bbe198d7-bb82-4609-9f42-8a0e3dec9490")
+	)
+	(fp_line
+		(start 0.738 1.448)
+		(end -0.738 1.448)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c9e8d6c0-c54d-44d4-a991-4c97d56c790a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.2286 3.7084 0)
+		(layer "F.Fab")
+		(uuid "b3258b46-0883-4139-885c-f2b21c66003c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.15 -0.95 90)
+		(size 0.6 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c79644fb-d145-4949-b2d9-c20a0ab3a32a")
+	)
+	(pad "2" smd rect
+		(at -1.15 0.95 90)
+		(size 0.6 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e3eeb10e-a180-42f1-aae5-69dd852cafe0")
+	)
+	(pad "3" smd rect
+		(at 1.15 0 90)
+		(size 0.6 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b4d75292-6393-4059-ab0c-a78c1fad97d8")
+	)
+	(embedded_fonts no)
+	(model "D:/GitHub/Start_PCB/PCB_Course/Projects/Project_Course/COURSE_AS_ESC/Design/Project Library/MYLibrary/LIB_ESDCAN24-2BLY/ESDCAN24-2BLY/3D/ESDCAN24-2BLY.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
